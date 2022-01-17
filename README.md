@@ -110,3 +110,6 @@ In this peojext i will be analyzing LPG usage in each sub category and try to ma
 In the DataAnalysis notebook we analysed the data and try to answer our conclusions about the LPG consumption.
 In the SaleForecast notebook i arranged the data to be used in the machine learning model, i made hypterparameter tuning for ensemble models.
 
+# Results
+The main findings of the model can be found at the post here [Medium article: https://medium.com/@rdvnmemis/lpg-sale-analysis-based-on-consumer-demand-and-price-forecast-6e6d375d8df]
+
