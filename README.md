@@ -106,7 +106,7 @@ In this peojext i will be analyzing LPG usage in each sub category and try to ma
 
 
 # File Descriptions
-
+Input file can be found in input v3.xlsx file.
 In the DataAnalysis notebook we analysed the data and try to answer our conclusions about the LPG consumption.
 In the SaleForecast notebook i arranged the data to be used in the machine learning model, i made hypterparameter tuning for ensemble models.
 
